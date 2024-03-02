@@ -2,7 +2,7 @@
 <br>
 this is my first git Repository.
 <br>
-Author-chanpreet kaur
+Author-kaurchanpreet
 <!--
 **kaurchanpreet/kaurchanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
