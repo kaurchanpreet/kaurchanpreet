@@ -1,5 +1,5 @@
 #my demo
-this is my first git Repository
+this is my first git Repository.
 Author-chanpreet kaur
 <!--
 **kaurchanpreet/kaurchanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
